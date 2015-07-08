@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/felix/Desktop/GitAndroid/PalleteBeta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/felix/Desktop/GitAndroid/PalleteBeta/app/build/intermediates/pre-dexed/debug/classes-23770f60c97e3198552797939af3205d52057515.jar" />
+    </item>
+    <item
+        jar="/home/felix/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/felix/Desktop/GitAndroid/PalleteBeta/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-65920abb8ee5eb634169b9c692b333077691aedb.jar" />
+    </item>
+    <item
+        jar="/home/felix/Desktop/GitAndroid/PalleteBeta/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/felix/Desktop/GitAndroid/PalleteBeta/app/build/intermediates/pre-dexed/debug/classes-db397f7dae0ebf03cf6bd11f0330643bc5575069.jar" />
+    </item>
+    <item
+        jar="/home/felix/Desktop/GitAndroid/PalleteBeta/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/felix/Desktop/GitAndroid/PalleteBeta/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-be1ca8c22ec067760018881a937953b4699f5661.jar" />
+    </item>
+
+</items>
